@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379295916080",
+    "project_id": "wlgdemo-82c2c",
+    "storage_bucket": "wlgdemo-82c2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379295916080:android:8f592d2f5443e832b0cdf5",
+        "android_client_info": {
+          "package_name": "com.example.wlg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6WfUeBv7eGlN6pm8TPkM0mmhvaFSBJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
